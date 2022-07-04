@@ -1,0 +1,9 @@
+.wordpress-cache
+node_modules
+node_modules/.cache/.eslintcache
+.env*
+!.env*.example
+.DS_Store
+src/.DS_Store
+src/assets/.DS_Store
+dist
